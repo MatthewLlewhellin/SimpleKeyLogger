@@ -1,5 +1,6 @@
 # SimpleKeyLogger
 ================================================================
+
 A simple key-logger created using python and the pynput library.
 
 This project was created as an initial attempt to create a key
@@ -8,6 +9,7 @@ this project as a base. Separate repositories will be created.
 
 # Functions/features:
 ================================================================
+
 When opening the application the pynput "listener" is used to
 read keyboard inputs. 
 
@@ -33,6 +35,7 @@ file will be completed before exiting.
 
 # Further Development
 ================================================================
+
 I currently have plans for 2 major developments within this
 application.
 
@@ -48,6 +51,7 @@ run without the knowledge of the user.
 
 # Included in Repository
 ================================================================
+
 -KeyLogger.py
 Python file that includes all code needed for the running of the
 key logger application.
@@ -66,6 +70,7 @@ sits in.
 
 # Statement regarding intent and usage
 ================================================================
+
 This project is created for the sole purpose of education and 
 will not be used in malicious ways or for the purpose of causing
 harm or any person or organisation.
